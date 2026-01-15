@@ -1,0 +1,9 @@
+# =========================
+# Dev Containers / Docker
+# =========================
+.devcontainer/
+
+# Virtual environments
+.venv/
+venv/
+env/
